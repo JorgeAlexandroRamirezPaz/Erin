@@ -1,0 +1,284 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.revistalamaga.com" resolutions="1x" timestamp="1539228243534">
+  <folder name="css">
+    <file name="site_global.css" crc="65319521"/>
+    <file name="ubicacion.css" crc="482622100" ref="ubicacion"/>
+    <file name="quienes-somos.css" crc="4227857383" ref="quienes-somos"/>
+    <file name="iefonts_quienes-somos.css" crc="24766828" ref="quienes-somos"/>
+    <file name="index.css" crc="4021919770" ref="index"/>
+    <file name="iefonts_index.css" crc="226283158" ref="index"/>
+    <file name="contacto.css" crc="432066998" ref="contacto"/>
+    <file name="galeria-de-fotos.css" crc="355171775" ref="galeria-de-fotos"/>
+    <file name="caba_as.css" crc="450678816" ref="cabañas"/>
+  </folder>
+  <folder name="assets">
+    <file name="999.jpg" crc="505887957" seo="true" mt="1538934710000"/>
+    <file name="4.jpg" crc="16981881" seo="true" mt="1538934072000"/>
+    <file name="4567.jpg" crc="3898101278" seo="true" mt="1538934821000"/>
+    <file name="4333.jpg" crc="4290710998" seo="true" mt="1538934790000"/>
+    <file name="7.jpg" crc="4081324804" seo="true" mt="1538934167000"/>
+    <file name="8.jpg" crc="3951156114" seo="true" mt="1538934191000"/>
+    <file name="55.jpg" crc="3908649306" seo="true" mt="1538934322000"/>
+    <file name="66.jpg" crc="230544158" seo="true" mt="1538934340000"/>
+    <file name="77.jpg" crc="282905747" seo="true" mt="1538934456000"/>
+    <file name="444.jpg" crc="306602339" seo="true" mt="1538934554000"/>
+    <file name="888.jpg" crc="141280278" seo="true" mt="1538934680000"/>
+    <file name="2222.jpg" crc="161003715" seo="true" mt="1538934732000"/>
+    <file name="77777333.jpg" crc="383835098" seo="true" mt="1538934933000"/>
+    <file name="89.jpg" crc="4020182377" seo="true" mt="1538934511000"/>
+    <file name="76.jpg" crc="3819076882" seo="true" mt="1538934436000"/>
+    <file name="33.jpg" crc="22779579" seo="true" mt="1538934265000"/>
+    <file name="88.jpg" crc="4267222436" seo="true" mt="1538934480000"/>
+    <file name="nueva669.jpg" crc="515172112" seo="true" mt="1539051399000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="museutils.js" crc="340535759" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:quienes-somos:ubicacion"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="require.js" crc="7928878" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="303980885" ref="index"/>
+    <file name="666643.jpg" crc="4194444231" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="3.jpg" crc="448263154" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="66.jpg" crc="230544158" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="4567.jpg" crc="3898101278" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="99.jpg" crc="43093213" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="999.jpg" crc="505887957" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="6.jpg" crc="144437434" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="image2.jpg" crc="4107252314" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="neva66.jpg" crc="76028082" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion"/>
+    <file name="logo redimensionado.png" crc="4060229956" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="88-u3586-fr.jpg" crc="442877350" ref="index"/>
+    <file name="2345.jpg" crc="110746129" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="messenger-button-1.jpg" crc="3785701978" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="envia_whatsapp.png" crc="4068363906" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="sello-reswerva-online.png" crc="409779155" seo="true" ref="index:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="6666.jpg" crc="4069900458" ref="index:galeria-de-fotos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="reserva-online-cursos-formacion-profesores.png" crc="4153887851" seo="true" ref="index:quienes-somos:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="logo_sta.gif" crc="3887829523" seo="true" ref="index:quienes-somos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="logo_sta-u13058.png" crc="4137569109" ref="index"/>
+    <file name="md_5a97a30b8a950.png" crc="523832412" seo="true" ref="index:contacto:quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="logo redimensionado159x125.png" crc="3826569749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12868-4.png" crc="300491067" ref="index"/>
+    <file name="765.jpg" crc="4109557761" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fbgreenplant.png" crc="3946980861" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12310-4.png" crc="506906210" ref="index"/>
+    <file name="9.jpg" crc="3890215177" ref="index:galeria-de-fotos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+    </file>
+    <file name="u14869-4.png" crc="300491067" ref="contacto"/>
+    <file name="logo redimensionado159x124.png" crc="3826569749" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="logo redimensionado356x278.png" crc="233126929" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="operadora.png" crc="426234976" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="blog-1505299138.png" crc="88693261" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="u16269-24.png" crc="4050409368" ref="contacto"/>
+    <file name="logo redimensionado365x286.png" crc="80059568" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="envia_whatsapp2.png" crc="499880262" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="messenger_checkout.png" crc="3895112652" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="789.jpg" crc="313308855" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="u12222-5.png" crc="286460295" ref="contacto"/>
+    <file name="u17311-4.png" crc="3909313054" ref="contacto"/>
+    <file name="55.jpg" crc="147707067" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="66-u13430-r-fr.jpg" crc="4016006247" ref="quienes-somos"/>
+    <file name="62.jpg" crc="390210374" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="logo_sta-u13467.png" crc="4137569109" ref="quienes-somos"/>
+    <file name="nueva669.jpg" crc="515172112" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="u13345-4.png" crc="300491067" ref="quienes-somos"/>
+    <file name="77777333.jpg" crc="3823630584" ref="quienes-somos:galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="2222.jpg" crc="4004382253" ref="quienes-somos:galeria-de-fotos">
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3937578975" ref="quienes-somos:cabañas:galeria-de-fotos:ubicacion">
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="galeria-de-fotos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="u13416-4.png" crc="38772563" ref="quienes-somos"/>
+    <file name="2345.jpg" crc="3992891574" ref="quienes-somos:cabañas:ubicacion"/>
+    <file name="77.jpg" crc="4132317610" ref="quienes-somos:ubicacion">
+      <caption webpage="ubicacion" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="logo redimensionado435x329.png" crc="4123396412" seo="true" ref="cabañas">
+      <caption webpage="cabañas" alt=""/>
+    </file>
+    <file name="logo_sta-u13791.png" crc="4137569109" ref="cabañas"/>
+    <file name="5.jpg" crc="4123570472" ref="cabañas:ubicacion">
+      <caption webpage="cabañas" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+    </file>
+    <file name="444.jpg" crc="256783843" ref="cabañas:ubicacion">
+      <caption webpage="cabañas" alt=""/>
+      <caption webpage="ubicacion" alt=""/>
+    </file>
+    <file name="u13699-4.png" crc="300491067" ref="cabañas"/>
+    <file name="u13778-4.png" crc="38772563" ref="cabañas"/>
+    <file name="88-u13871-fr.jpg" crc="57205225" ref="cabañas"/>
+    <file name="logo_sta-u13970.png" crc="4137569109" ref="galeria-de-fotos"/>
+    <file name="u14035-4.png" crc="300491067" ref="galeria-de-fotos"/>
+    <file name="u13925-4.png" crc="38772563" ref="galeria-de-fotos"/>
+    <file name="88.jpg" crc="4267222436" ref="ubicacion">
+      <caption webpage="ubicacion" alt=""/>
+    </file>
+    <file name="logo_sta-u14393.png" crc="4137569109" ref="ubicacion"/>
+    <file name="u14629-4.png" crc="300491067" ref="ubicacion"/>
+    <file name="u14429-4.png" crc="38772563" ref="ubicacion"/>
+  </folder>
+  <file name="index.html" crc="183893575" seo="true" mt="1539181164984" redirect="true"/>
+  <file name="contacto.html" crc="30568029" seo="true" mt="1539181164984" redirect="true"/>
+  <file name="quienes-somos.html" crc="4219737449" seo="true" mt="1539181164984" redirect="true"/>
+  <file name="cabañas.html" crc="135146283" seo="true" mt="1539181164984" redirect="true"/>
+  <file name="galeria-de-fotos.html" crc="3920449033" seo="true" mt="1539181164984" redirect="true"/>
+  <file name="ubicacion.html" crc="482181581" seo="true" mt="1539181164984" redirect="true"/>
+</manifest>
