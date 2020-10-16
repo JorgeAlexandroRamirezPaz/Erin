@@ -24,6 +24,17 @@
   </script>
   <script src="https://webfonts.creativecloud.com/roboto:n9,n7:default;pt-sans:n7:default;bebas-neue:n4:default.js" type="text/javascript"></script>
   <link rel="stylesheet" type="text/css" href="css/MyStyles.css" />
+  <!-- BOOSTRAP-->
+  <link rel="stylesheet" href="../Bootstrap_3.3.6/bootstrap.min.css">
+  <script src="../Bootstrap_3.3.6/jquery.min.js"></script>
+  <script src="../Bootstrap_3.3.6/bootstrap.min.js"></script>
+  <style>
+    .modalCenter
+    {
+      top:50% !important;
+      transform: translateY(-50%) !important;
+    }
+  </style>
  </head>
  <body>
 
@@ -32,7 +43,7 @@
     <div class="browser_width" id="u2342-bw">
      <div class="shadow" id="u2342"><!-- simple frame --></div>
     </div>
-       <div class="clearfix" id="u129-4" data-IBE-flags="txtStyleSrc">
+       <div class="clearfix" id="u129-4" data-IBE-flags="txtStyleSrc" style="margin-top:20px;">
            <p>CABAÑAS ERIN</p>
        </div>
        <img id="u133-4" alt="Santa Rosa de Calamuchita" width="115" height="34" src="images/u133-4.png?crc=4076513286" data-IBE-flags="txtStyleSrc" /><!-- rasterized frame -->
@@ -332,6 +343,27 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   <!--HTML Widget code-->
   
 <script type="text/javascript">(function(e,t){function r(){var r=n.offsetHeight,i=e.innerHeight,s=Math.max(0,i-r);t.style.paddingTop=s/2+"px";t.style.paddingBottom="0px"}var n=$("#page")[0];$(e).resize(r);$(t).on("wp-page-height-change",r);r()})(window,document.body)</script>
+<script type="text/javascript">
+  $(window).load(function()
+  {
+      $('#myModal').modal('show');
+  });
+ </script>
+ <!-- Modal -->
+ <div class="modal fade" id="myModal">
+  <div class="modal-dialog  modalCenter" style="width:360px; background-color:#37bbed;">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-body"  style="background-color:#37bbed; padding: 0px;">
+        <a href="https://www.previaje.gob.ar/" target="_blank"><img src="../images/Previaje2.png" style="width:359px;"></a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+    
+  </div>
+</div>
 
    </body>
 </html>
